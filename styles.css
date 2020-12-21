@@ -1,0 +1,11 @@
+.main-header {
+   background-color: grey;
+   font-size: 36px;
+   color: red;
+   padding-left: 20px;
+}
+
+.main-footer {
+   background-color: grey;
+   padding-left: 20px;
+}
